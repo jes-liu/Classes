@@ -1,0 +1,8 @@
+Gene Label	Gene Abbreviation
+Gene A	a
+Gene B	b
+Gene C	c
+Gene D	d
+Gene E	e
+Gene F	f
+Gene G	g

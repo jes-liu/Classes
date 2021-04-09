@@ -1,0 +1,8 @@
+Gene Label	Gene ID
+Gene A	NR_015380
+Gene B	NM_016161
+Gene C	NM_144670
+Gene D	NM_015511
+Gene E	NM_080282
+Gene F	NM_001080395
+Gene G	NM_033304

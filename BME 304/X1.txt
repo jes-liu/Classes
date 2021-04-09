@@ -1,0 +1,8 @@
+Pokemon Name	Poke ID
+Pikach	Th_01
+Charma	Fi_01
+Articu	Ic_01
+Squirt	Wa_01
+Bulbas	Gr_01
+Jiglyp	No_01
+Onyx	Ro_01

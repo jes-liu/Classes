@@ -1,0 +1,8 @@
+Pokemon Name	Type
+Pikach	Th
+Charma	Fi
+Articu	Ic
+Squirt	Wa
+Bulbas	Gr
+Jiglyp	No
+Onyx	Ro

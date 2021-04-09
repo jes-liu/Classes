@@ -1,0 +1,8 @@
+GeneLabel	GeneID	GeneAbbreviation
+Gene A	NR_015380	a
+Gene B	NM_016161	b
+Gene C	NM_144670	c
+Gene D	NM_015511	d
+Gene E	NM_080282	e
+Gene F	NM_001080395	f
+Gene G	NM_033304	g
