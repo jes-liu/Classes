@@ -1,0 +1,14 @@
+BankInt
+Enter the principle amount:1000
+Enter the interest rate in decimal:.06
+Enter the term of year:5
+Enter how many times compounded per year:1
+
+amount =
+
+  214.8532  347.1130  113.4971
+
+The principle amount of $1000 in 5 years with interest rate of 
+0.06% becomes $1338.23 when interest is comopounded 1 times a year. 
+Your earning amount is $338.23.
+diary off
