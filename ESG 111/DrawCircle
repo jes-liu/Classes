@@ -1,0 +1,11 @@
+DrawCircle
+Enter the center of the circle coordinate: [1 1]
+Enter the radius of the circle: 2
+Enter the number of points: 20
+Enter a color: red
+DrawCircle
+Enter the center of the circle coordinate: [1 1]
+Enter the radius of the circle: 2
+Enter the number of points: 100
+Enter a color: red
+diary off
