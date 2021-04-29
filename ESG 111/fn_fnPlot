@@ -1,0 +1,5 @@
+fn_fnPlot(@(x)exp(4.*x).*sin(1./x),.01,.2,500)
+The difference is 3.80
+fn_fnPlot(@(x)humps(x),0,2,200)
+The difference is 101.34
+diary off
