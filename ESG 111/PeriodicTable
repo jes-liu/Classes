@@ -1,0 +1,34 @@
+elementS(1)
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+      Name: 'Hydrogen'
+    Symbol: 'H'
+    Number: 1
+      Mass: 1.0079
+
+elementS(6)
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+      Name: 'Carbon'
+    Symbol: 'C'
+    Number: 6
+      Mass: 12.0110
+
+elementS(8)
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+      Name: 'Oxygen'
+    Symbol: 'O'
+    Number: 8
+      Mass: 15.9990
+
+diary off
