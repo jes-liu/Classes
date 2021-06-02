@@ -1,0 +1,9 @@
+% Jesse Liu 111639610
+clear all;close all;clc;
+
+file=fopen('snowd.txt');
+
+if file==-1
+    disp('File open not successful')
+end
+
