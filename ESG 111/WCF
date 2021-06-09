@@ -1,0 +1,16 @@
+WCF
+What is the air temperature(in Fahrenheit)? 32
+What is the wind speed(in mph)? 5
+The wind chill factor is 27F*mph
+NO frostbite warning
+WCF
+What is the air temperature(in Fahrenheit)? 0
+What is the wind speed(in mph)? 18
+The wind chill factor is -21F*mph
+Skin can freeze in 30 minutes
+WCF
+What is the air temperature(in Fahrenheit)? -12
+What is the wind speed(in mph)? 33
+The wind chill factor is -43F*mph
+Skin can freeze in 10 minutes
+diary off
